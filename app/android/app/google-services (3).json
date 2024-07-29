@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940117004501",
+    "project_id": "medisync-healthcare-mad",
+    "storage_bucket": "medisync-healthcare-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940117004501:android:4b82d996988e690459125c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcLxbA7rdew58xyBhijWteFCRG8DUjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940117004501:android:fa12943fe310ed9359125c",
+        "android_client_info": {
+          "package_name": "com.medisync.medisync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcLxbA7rdew58xyBhijWteFCRG8DUjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

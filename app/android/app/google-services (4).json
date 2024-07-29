@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "940117004501",
+    "project_id": "medisync-healthcare-mad",
+    "storage_bucket": "medisync-healthcare-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940117004501:android:fa12943fe310ed9359125c",
+        "android_client_info": {
+          "package_name": "com.medisync.medisync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940117004501-tbcbc3s07tk3hsancs3cdk91jqmijn5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medisync.medisync",
+            "certificate_hash": "ce86ee37edc82fa1f17c67b1b1cb5b7c6a1c5930"
+          }
+        },
+        {
+          "client_id": "940117004501-tpif6pc0o7huceltpi5b7oona7gkt7sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcLxbA7rdew58xyBhijWteFCRG8DUjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940117004501-tpif6pc0o7huceltpi5b7oona7gkt7sc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940117004501-31pgtaqc7re2134sfmu9v4nmudt6hj5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medisync.medisync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
